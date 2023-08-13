@@ -1,5 +1,5 @@
-#include <iostream>
-#include <string>
+using iostream
+using string
 
 class Monster {
   public: 
